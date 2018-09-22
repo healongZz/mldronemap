@@ -1,0 +1,8 @@
+地图ID	地图资源	地图命名	地图ICON	是否可见（0为可见，1为不可见）	资源包
+MapID	MapPath	mMapName	MapIcon	MapOpen	Resource
+int	string	string	string	int	string
+1	PVP_007	西部沙漠	Atlas_ChooseMap01_add/Map01	0	
+2	PVP_011_add	天空之城	Atlas_ChooseMap01_add/Map02	0	
+3	PVP_005_add	Natal	Atlas_ChooseMap01_add/Map02	0	gopay
+4	PVP_008_add	Mayhem	Atlas_ChooseMap01_add/Map02	1	mscgamely
+5	PVP_002_add	Halloween专属	Atlas_ChooseMap01_add/Map02	0	honor
